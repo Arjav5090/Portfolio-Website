@@ -33,7 +33,7 @@
     },
     {
         "name": "Keras",
-        "icon": "https://img.icons8.com/material-two-tone/48/keras.png"
+        "icon": "https://img.icons8.com/material-outlined/48/keras.png"
     },
     {
         "name": "Anaconda",
@@ -41,11 +41,11 @@
     },
     {
         "name": "Git",
-        "icon": "https://img.icons8.com/ios-filled/48/git.png"
+        "icon": "https://img.icons8.com/color/48/git.png" 
     },
     {
         "name": "Kubernates",
-        "icon": "https://img.icons8.com/ios/48/kubernetes.png"
+        "icon": "https://img.icons8.com/color/48/kubernetes.png"
     },
     {
         "name": "Docker",
